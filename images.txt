@@ -1,2 +1,1 @@
-smithao/ddnsgo
 jxxghp/moviepilot-v2
